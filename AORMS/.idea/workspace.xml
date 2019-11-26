@@ -224,10 +224,6 @@
       <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish.png" afterDir="false" />
       <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_foreground.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_foreground.png" afterDir="false" />
       <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_round.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -248,19 +244,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefListActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#1252#1253#0" expanded="true" />
-                <element signature="e#1287#1288#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -300,11 +283,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="207">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#1207#1208#0" expanded="true" />
                 <element signature="e#1259#1260#0" expanded="true" />
@@ -325,8 +308,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="252">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1356#1357#0" expanded="true" />
+                <element signature="e#1413#1414#0" expanded="true" />
+                <element signature="e#1484#1485#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+                <element signature="e#1687#1688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Dish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1087#1088#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -406,8 +431,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_chef_dish.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_km.xml" />
-        <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java" />
         <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java" />
+        <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java" />
+        <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java" />
       </list>
     </option>
   </component>
@@ -594,7 +620,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.50238097" side_tool="true" weight="0.24054463" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49761903" visible="true" weight="0.24054463" />
@@ -659,8 +684,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Prototype resources" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_km2.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_chef2.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_red.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -925,20 +948,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="207">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#1207#1208#0" expanded="true" />
             <element signature="e#1259#1260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
           </folding>
         </state>
       </provider>
