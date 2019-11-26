@@ -6,6 +6,7 @@ public class DishDetailModel {
     int quantity;
 
 
+    public DishDetailModel() {}
     public DishDetailModel(int dish_Id, int ingredient_id, int quantity) {
         this.dish_Id = dish_Id;
         this.ingredient_id = ingredient_id;

@@ -14,6 +14,7 @@ public class OrderModel {
     float bill;
     List<OrderDishInfoModel> OrderPlaced;
 
+    public OrderModel() {}
     public OrderModel(int order_id, String status, int table_id, int order_prep_time, float bill, List<OrderDishInfoModel> orderPlaced) {
         this.order_id = order_id;
         this.status = status;
