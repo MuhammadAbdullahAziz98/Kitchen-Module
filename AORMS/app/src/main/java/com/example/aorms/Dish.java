@@ -9,6 +9,9 @@ public class Dish {
     int price;
     int time;
 
+    public Dish() {
+    }
+
     public Dish(String dish_name, String type, int price, int time) {
         this.dish_name = dish_name;
         this.type = type;
