@@ -1,9 +1,9 @@
 
 package com.example.aorms;
 
-import android.graphics.drawable.Drawable;
 
 public class Dish {
+    int dish_id
     String dish_name;
     String type;
     int price;
@@ -12,11 +12,19 @@ public class Dish {
     public Dish() {
     }
 
-    public Dish(String dish_name, String type, int price, int time) {
+    public Dish(int dishid,String dish_name, String type, int price, int time) {
+        this.dish_id = dishid;
         this.dish_name = dish_name;
         this.type = type;
         this.price = price;
         this.time = time;
+    }
+    public int getDish_id() {
+        return dish_id;
+    }
+
+    public void setDish_id(int dish_id) {
+        this.dish_id = dish_id;
     }
 
     public String getDish_name() {
