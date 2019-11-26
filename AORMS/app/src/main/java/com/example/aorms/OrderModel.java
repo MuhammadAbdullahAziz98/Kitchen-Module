@@ -1,20 +1,20 @@
 package com.example.aorms;
 
-//import com.google.firebase.database.IgnoreExtraProperties;
+import com.google.firebase.database.IgnoreExtraProperties;
 
 import java.sql.Time;
 import java.sql.Timestamp;
 import java.util.List;
-//@IgnoreExtraProperties
+@IgnoreExtraProperties
 public class OrderModel {
     int order_id;
     String status;
     int table_id;
-    Timestamp order_prep_time;
+    int order_prep_time;
     float bill;
     List<OrderDishInfoModel> OrderPlaced;
 
-    public OrderModel(int order_id, String status, int table_id, Timestamp order_prep_time, float bill, List<OrderDishInfoModel> orderPlaced) {
+    public OrderModel(int order_id, String status, int table_id, int order_prep_time, float bill, List<OrderDishInfoModel> orderPlaced) {
         this.order_id = order_id;
         this.status = status;
         this.table_id = table_id;
@@ -22,6 +22,7 @@ public class OrderModel {
         this.bill = bill;
         OrderPlaced = orderPlaced;
     }
+
 
     public int getOrder_id() {
         return order_id;
@@ -47,11 +48,11 @@ public class OrderModel {
         this.table_id = table_id;
     }
 
-    public Timestamp getOrder_prep_time() {
+    public int getOrder_prep_time() {
         return order_prep_time;
     }
 
-    public void setOrder_prep_time(Timestamp order_prep_time) {
+    public void setOrder_prep_time(int order_prep_time) {
         this.order_prep_time = order_prep_time;
     }
 
@@ -70,5 +71,8 @@ public class OrderModel {
     public void setOrderPlaced(List<OrderDishInfoModel> orderPlaced) {
         OrderPlaced = orderPlaced;
     }
-}
 
+    public OrderModel(){}
+
+
+}
