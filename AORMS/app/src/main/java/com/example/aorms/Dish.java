@@ -13,6 +13,7 @@ public class Dish {
     }
     public Dish(int dishid,String type) {
         this.dish_id = dishid;
+        dish_name = "Dish No."+ dishid;
         this.type = type;
     }
 

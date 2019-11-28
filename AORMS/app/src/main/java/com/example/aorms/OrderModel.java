@@ -7,7 +7,7 @@ import java.sql.Timestamp;
 import java.util.List;
 @IgnoreExtraProperties
 public class OrderModel {
-    int order_id;
+    String order_id;
     String status;
     int table_id;
     int order_prep_time;
@@ -15,7 +15,7 @@ public class OrderModel {
     List<OrderDishInfoModel> OrderPlaced;
 
     public OrderModel() {}
-    public OrderModel(int order_id, String status, int table_id, int order_prep_time, float bill, List<OrderDishInfoModel> orderPlaced) {
+    public OrderModel(String order_id, String status, int table_id, int order_prep_time, float bill, List<OrderDishInfoModel> orderPlaced) {
         this.order_id = order_id;
         this.status = status;
         this.table_id = table_id;
@@ -25,11 +25,11 @@ public class OrderModel {
     }
 
 
-    public int getOrder_id() {
+    public String getOrder_id() {
         return order_id;
     }
 
-    public void setOrder_id(int order_id) {
+    public void setOrder_id(String order_id) {
         this.order_id = order_id;
     }
 
@@ -72,8 +72,6 @@ public class OrderModel {
     public void setOrderPlaced(List<OrderDishInfoModel> orderPlaced) {
         OrderPlaced = orderPlaced;
     }
-
-    public OrderModel(){}
 
 
 }

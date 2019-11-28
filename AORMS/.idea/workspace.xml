@@ -12,108 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fbe1939-5962-46d1-b55f-cb07fc93ff64" name="Default Changelist" comment="">
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/ap_generated_sources/debug/out" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/res/resValues/debug" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/androidTest/debug" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/androidTest/debug/com" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/androidTest/debug/com/example" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/androidTest/debug/com/example/aorms" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/androidTest/debug/com/example/aorms/test" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/androidTest/debug/com/example/aorms/test/BuildConfig.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/debug" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/debug/com" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/debug/com/example" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/debug/com/example/aorms" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/build/generated/source/buildConfig/debug/com/example/aorms/BuildConfig.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/androidTest" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/androidTest/java" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/androidTest/java/com" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/androidTest/java/com/example" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/androidTest/java/com/example/aorms" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/androidTest/java/com/example/aorms/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/chef-web.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/dish-web.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/ic_launcher-web.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/ChefAdapter.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/ChefListActivity.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/ChefQueActivity.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Dish.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/DishAdapter.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/MainActivity.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/drawable" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/drawable-v24" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/drawable/chef_background.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/layout" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/layout/activity_chef_list.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/layout/activity_chef_que.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/layout/list_item_chef.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/layout/list_item_km.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-anydpi-v26" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-anydpi-v26/chef.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-anydpi-v26/chef_round.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/chef.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/chef_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/chef_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/chef.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/chef_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/chef_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/chef.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/chef_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/chef_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/chef.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/chef_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/chef_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/chef.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/chef_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/chef_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values-w820dp" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/test" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/test/java" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/test/java/com" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/test/java/com/example" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/test/java/com/example/aorms" afterDir="true" />
-      <change afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/test/java/com/example/aorms/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_18_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_19_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_17_0_0_aar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/aorms-seea/src/androidTest/java/com/example/aorms/ExampleInstrumentedTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/aorms-seea/src/main/AndroidManifest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/aorms-seea/src/main/chef-web.png" afterDir="false" />
@@ -193,37 +99,88 @@
       <change afterPath="$PROJECT_DIR$/app/aorms-seea/src/main/res/values/styles.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/aorms-seea/src/test/java/com/example/aorms/ExampleUnitTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChangeThresholdActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefDishAdapter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefScreenActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteDishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteOrder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DifferentQueueChangeActivity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/Dish.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishDetailModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/MakeOrderActivity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderDishInfoModel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderModel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueueChangeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueuesListActivity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/SameQueueChangeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateAndSpecialOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateOrder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_green.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_red.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_change_threshold.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chef_screen.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_different_queue_change.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_make_order.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_queue_change.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_queues_list.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_same_queue_change.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_chef_dish.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/dish.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/dish.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/dish_foreground.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/dish_foreground.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/dish_round.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-hdpi/dish_round.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/dish.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/dish.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/dish_foreground.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/dish_foreground.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/dish_round.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-mdpi/dish_round.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/dish.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/dish.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/dish_foreground.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/dish_foreground.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/dish_round.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xhdpi/dish_round.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/dish.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/dish.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/dish_foreground.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/dish_foreground.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/dish_round.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxhdpi/dish_round.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_foreground.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_foreground.png" afterDir="false" />
-      <change beforePath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_round.png" beforeDir="false" afterPath="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/res/mipmap-xxxhdpi/dish_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -238,17 +195,22 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefAdapter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            <state relative-caret-position="89">
+              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -257,115 +219,133 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Chef.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_make_order.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_km.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_chef.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#1207#1208#0" expanded="true" />
-                <element signature="e#1259#1260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_chef_dish.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding>
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-                <element signature="e#1081#1082#0" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-                <element signature="e#1356#1357#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="e#1484#1485#0" expanded="true" />
-                <element signature="e#1574#1575#0" expanded="true" />
-                <element signature="e#1687#1688#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Dish.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="108">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/MakeOrderActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="375">
+              <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
               <folding>
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#995#2319#0" expanded="true" />
+                <element signature="e#2030#2293#0" expanded="true" />
+                <element signature="e#2292#2293#0" expanded="true" />
+                <element signature="e#2318#2319#0" expanded="true" />
+                <element signature="e#2361#3109#0" expanded="true" />
+                <element signature="e#2818#3082#0" expanded="true" />
+                <element signature="e#3081#3082#0" expanded="true" />
+                <element signature="e#3108#3109#0" expanded="true" />
+                <element signature="e#3151#3899#0" expanded="true" />
+                <element signature="e#3608#3872#0" expanded="true" />
+                <element signature="e#3871#3872#0" expanded="true" />
+                <element signature="e#3898#3899#0" expanded="true" />
+                <element signature="e#3940#4703#0" expanded="true" />
+                <element signature="e#4676#4677#0" expanded="true" />
+                <element signature="e#4702#4703#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishAdapter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+            <state relative-caret-position="218">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteDishes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_queue_list.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Dish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueuesListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -375,10 +355,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="valueResourceFile" />
         <option value="resourceFile" />
         <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -388,16 +368,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_chef_que.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_chef_list.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/CustomAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_chef_que.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_chef_list.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kitchenmain.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/rounded_button.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_red.xml" />
@@ -420,26 +390,40 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueueChangeActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_change_threshold.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefListActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/Chef.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderDetail.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/Order.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderDishInfoModel.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderModel .java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefQueActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/Dish.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_chef_dish.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_km.xml" />
         <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java" />
         <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java" />
         <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java" />
+        <option value="$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/ChefQueActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefQueActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_queues_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/Chef.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateAndSpecialOrder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefDishAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueuesListActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/Dish.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_queue_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateOrder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteDishes.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteOrder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_make_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefListActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/aorms/MakeOrderActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="7" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -449,6 +433,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -468,6 +453,22 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="aorms" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AORMS" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AORMS" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="AORMS" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -483,7 +484,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -496,9 +496,9 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app\src\main\java\com\example\aorms" />
       <recent name="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app\src\main\res\layout" />
-      <recent name="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app\src\main\res\drawable" />
     </key>
     <key name="android.template.packageName">
       <recent name="com.example.aorms" />
@@ -507,9 +507,9 @@
     <key name="android.template.parentActivityClass">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app\src\main\java\com\example\aorms" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app\src\main\res\layout" />
+      <recent name="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -590,24 +590,6 @@
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app" />
-          <option name="myCopyRoot" value="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app" />
-          <option name="myCopyRoot" value="C:\Users\lenovo\3D Objects\aorms-seea-master\AORMS\app" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1fbe1939-5962-46d1-b55f-cb07fc93ff64" name="Default Changelist" comment="" />
@@ -618,11 +600,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="7" y="0" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.50238097" side_tool="true" weight="0.24054463" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49761903" visible="true" weight="0.24054463" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49761903" visible="true" weight="0.24727838" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -633,20 +624,21 @@
       <window_info anchor="bottom" id="Debug" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Logcat" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Build" order="8" visible="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.31914893" />
       <window_info anchor="bottom" id="Messages" order="9" />
-      <window_info anchor="bottom" id="Android Profiler" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="10" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" weight="0.25416037" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.2527216" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32980332" />
     </layout>
     <layout-to-restore>
       <window_info id="Captures" order="0" sideWeight="0.50238097" side_tool="true" weight="0.24054463" />
@@ -661,20 +653,21 @@
       <window_info anchor="bottom" id="Debug" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Logcat" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Build" order="8" visible="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.31914893" />
       <window_info anchor="bottom" id="Messages" order="9" />
-      <window_info anchor="bottom" id="Android Profiler" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="10" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Preview" order="4" weight="0.25416037" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32980332" />
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
@@ -684,85 +677,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Prototype resources" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_red.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="8" lean-forward="true" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="e#301#322#0" expanded="true" />
-            <element signature="e#356#377#0" expanded="true" />
-            <element signature="e#409#430#0" expanded="true" />
-            <element signature="e#461#482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kitchenmain.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chef.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_threshold.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_green.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_move_dish.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chef_list.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_queue.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChangeQueueActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_queue_change2.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_different_que_change2.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_same_que_change2.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_threshold_change2.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChangeThresholdActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chef_que.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="24" selection-end-line="19" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chef_screen.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -787,37 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_queue_change.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DifferentQueueChangeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/SameQueueChangeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_threshold.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -843,9 +727,147 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderDetail.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Order.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishDetailModel.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderDishInfoModel.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderModel.java" />
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/DishDetailModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/sun/security/tools/keytool/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="649" column="20" lean-forward="true" selection-start-line="649" selection-start-column="20" selection-end-line="649" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_chef.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/ChefScreenActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/ChefQueActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chef_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="20" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chef_que.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="14" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_queues_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueueChangeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -853,10 +875,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefQueActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/OrderDishInfoModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="176">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishDetailModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Chef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -870,68 +913,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Dish.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DifferentQueueChangeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="110">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/DishDetailModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateAndSpecialOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="198">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Chef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_km.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_queue_change.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="179">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_chef.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_change_threshold.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        <state relative-caret-position="250">
+          <caret line="79" column="19" selection-start-line="61" selection-start-column="4" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChangeThresholdActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DishAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        <state relative-caret-position="88">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#571#572#0" expanded="true" />
@@ -940,70 +970,171 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefDishAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_km.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_chef_dish.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="274">
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderDishInfoModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefQueActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="418">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
           <folding>
-            <element signature="e#1207#1208#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/OrderModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/QueuesListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="198">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1166#1167#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1356#1357#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1484#1485#0" expanded="true" />
-            <element signature="e#1574#1575#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Dish.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="218">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/3D Objects/aorms-seea-master/AORMS/app/src/main/java/com/example/aorms/Chef.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteDishes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/DeleteOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_queue_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/UpdateOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_make_order.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/ChefListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aorms/MakeOrderActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#995#2319#0" expanded="true" />
+            <element signature="e#2030#2293#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+            <element signature="e#2361#3109#0" expanded="true" />
+            <element signature="e#2818#3082#0" expanded="true" />
+            <element signature="e#3081#3082#0" expanded="true" />
+            <element signature="e#3108#3109#0" expanded="true" />
+            <element signature="e#3151#3899#0" expanded="true" />
+            <element signature="e#3608#3872#0" expanded="true" />
+            <element signature="e#3871#3872#0" expanded="true" />
+            <element signature="e#3898#3899#0" expanded="true" />
+            <element signature="e#3940#4703#0" expanded="true" />
+            <element signature="e#4676#4677#0" expanded="true" />
+            <element signature="e#4702#4703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
   <component name="masterDetails">
     <states>

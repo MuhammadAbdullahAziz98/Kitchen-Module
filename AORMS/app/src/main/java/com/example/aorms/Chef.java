@@ -7,10 +7,17 @@ public class Chef implements java.io.Serializable{
     String name;
     String specialty;
     int threshold;
+    int id;
     int currentWorkload;
 
     public Chef() {}
-    public Chef(String name, String specialty, int threshold, int currentWorkload) {
+    public Chef(String name, String specialty) {
+        this.name = name;
+        this.specialty = specialty;
+
+    }
+    public Chef(String name, String specialty, int threshold, int currentWorkload,int id) {
+        this.id =  id;
         this.name = name;
         this.specialty = specialty;
         this.threshold = threshold;
@@ -30,6 +37,14 @@ public class Chef implements java.io.Serializable{
 
     public void setSpecialty(String specialty) {
         this.specialty = specialty;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public int getThreshold() {

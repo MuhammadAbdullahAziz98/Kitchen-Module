@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.AdapterView;
-
 import java.util.ArrayList;
 
 public class ChefQueActivity extends AppCompatActivity {

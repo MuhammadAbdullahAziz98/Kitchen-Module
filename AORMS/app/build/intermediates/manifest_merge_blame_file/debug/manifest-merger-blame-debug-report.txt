@@ -15,72 +15,133 @@
 12-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:6:5-40
 12-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:6:18-37
 13
-14    <application
-14-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:8:5-31:19
-15        android:allowBackup="true"
-15-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:9:9-35
-16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
-17        android:debuggable="true"
-18        android:icon="@mipmap/ic_launcher"
-18-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:10:9-43
-19        android:label="@string/app_name"
-19-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:11:9-41
-20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:12:9-54
-21        android:supportsRtl="true"
-21-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:13:9-35
-22        android:theme="@style/AppTheme" >
-22-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:14:9-40
-23        <activity android:name="com.example.aorms.ChefScreenActivity" />
-23-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:9-65
-23-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:19-53
-24        <activity android:name="com.example.aorms.ChangeThresholdActivity" />
-24-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:16:9-61
-24-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:16:19-58
-25        <activity android:name="com.example.aorms.SameQueueChangeActivity" />
-25-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:17:9-61
-25-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:17:19-58
-26        <activity android:name="com.example.aorms.DifferentQueueChangeActivity" />
-26-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:18:9-66
-26-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:18:19-63
-27        <activity android:name="com.example.aorms.QueueChangeActivity" />
-27-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:19:9-57
-27-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:19:19-54
-28        <activity
-28-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:20:9-28:20
-29            android:name="com.example.aorms.ChefListActivity"
-29-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:21:13-45
-30            android:label="Chef List" >
-30-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:22:13-38
-31            <intent-filter>
-31-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:23:13-27:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:17-69
-32-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:17-77
-34-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity android:name="com.example.aorms.ChefQueActivity" />
-37-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:29:9-53
-37-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:29:19-50
-38        <activity android:name="com.example.aorms.MainActivity" />
-38-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:30:9-50
-38-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:30:19-47
-39
-40        <provider
-40-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\7309f8169174f11110ad56440ca8f929\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
-41            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-41-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\7309f8169174f11110ad56440ca8f929\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
-42            android:authorities="com.example.aorms.lifecycle-process"
-42-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\7309f8169174f11110ad56440ca8f929\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
-43            android:exported="false"
-43-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\7309f8169174f11110ad56440ca8f929\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
-44            android:multiprocess="true" />
-44-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\7309f8169174f11110ad56440ca8f929\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
-45    </application>
-46
-47</manifest>
+14    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+15    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:25:5-79
+16-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:25:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:26:5-67
+17-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:26:22-64
+18
+19    <application
+19-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:8:5-35:19
+20        android:allowBackup="true"
+20-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:9:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\cdf12fde5467c14e3792a03af6b49cd1\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:10:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:11:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:12:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:13:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:14:9-40
+29        <activity android:name="com.example.aorms.MakeOrderActivity" >
+29-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:9-21:20
+29-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:19-52
+30            <intent-filter>
+30-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:16:13-20:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:17:17-69
+31-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:17:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:19:17-77
+33-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:19:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.aorms.QueuesListActivity" >
+36-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:22:9-23:20
+36-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:22:19-53
+37        </activity>
+38        <activity android:name="com.example.aorms.ChefScreenActivity" />
+38-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:9-56
+38-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:19-53
+39        <activity android:name="com.example.aorms.ChangeThresholdActivity" />
+39-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:25:9-61
+39-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:25:19-58
+40        <activity android:name="com.example.aorms.SameQueueChangeActivity" />
+40-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:9-61
+40-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:19-58
+41        <activity android:name="com.example.aorms.DifferentQueueChangeActivity" />
+41-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:27:9-66
+41-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:27:19-63
+42        <activity android:name="com.example.aorms.QueueChangeActivity" />
+42-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:28:9-57
+42-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:28:19-54
+43        <activity
+43-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:29:9-32:20
+44            android:name="com.example.aorms.ChefListActivity"
+44-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:30:13-45
+45            android:label="Chef List" >
+45-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:31:13-38
+46        </activity>
+47        <activity android:name="com.example.aorms.ChefQueActivity" />
+47-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:33:9-53
+47-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:33:19-50
+48        <activity android:name="com.example.aorms.MainActivity" />
+48-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:34:9-50
+48-->C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:34:19-47
+49
+50        <service
+50-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:29:9-35:19
+51            android:name="com.google.firebase.components.ComponentDiscoveryService"
+51-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:30:13-84
+52            android:directBootAware="true"
+52-->[com.google.firebase:firebase-common:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\46881b07c329eff95358cc4a88d23301\firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+53            android:exported="false" >
+53-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:31:13-37
+54            <meta-data
+54-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:32:13-34:85
+55                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+55-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:33:17-109
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-database:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\436eb20eb5250e76a4e30b321e691f2d\firebase-database-19.2.0\AndroidManifest.xml:34:17-82
+57        </service>
+58
+59        <activity
+59-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\e6d606128e8845b09e1336355e300014\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+60            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+60-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\e6d606128e8845b09e1336355e300014\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+61            android:exported="false"
+61-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\e6d606128e8845b09e1336355e300014\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+62            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+62-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\e6d606128e8845b09e1336355e300014\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+63
+64        <provider
+64-->[com.google.firebase:firebase-common:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\46881b07c329eff95358cc4a88d23301\firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+65            android:name="com.google.firebase.provider.FirebaseInitProvider"
+65-->[com.google.firebase:firebase-common:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\46881b07c329eff95358cc4a88d23301\firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+66            android:authorities="com.example.aorms.firebaseinitprovider"
+66-->[com.google.firebase:firebase-common:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\46881b07c329eff95358cc4a88d23301\firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+67            android:exported="false"
+67-->[com.google.firebase:firebase-common:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\46881b07c329eff95358cc4a88d23301\firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+68            android:initOrder="100" />
+68-->[com.google.firebase:firebase-common:19.2.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\46881b07c329eff95358cc4a88d23301\firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+69
+70        <meta-data
+70-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\42f27a118bc5e656782c53fbe05c840b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+71            android:name="com.google.android.gms.version"
+71-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\42f27a118bc5e656782c53fbe05c840b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+72            android:value="@integer/google_play_services_version" />
+72-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\42f27a118bc5e656782c53fbe05c840b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+73
+74        <provider
+74-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\4dd6e87c30db951cf0997ede0ac3b87e\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+75            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\4dd6e87c30db951cf0997ede0ac3b87e\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+76            android:authorities="com.example.aorms.lifecycle-process"
+76-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\4dd6e87c30db951cf0997ede0ac3b87e\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+77            android:exported="false"
+77-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\4dd6e87c30db951cf0997ede0ac3b87e\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+78            android:multiprocess="true" />
+78-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\4dd6e87c30db951cf0997ede0ac3b87e\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+79    </application>
+80
+81</manifest>

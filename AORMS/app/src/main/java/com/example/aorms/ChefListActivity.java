@@ -7,6 +7,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
 import java.util.ArrayList;
 
 
@@ -44,6 +47,18 @@ public class ChefListActivity extends AppCompatActivity implements ChefAdapter.O
 
     @Override
     public void OnChangeThreshold(int position) {
+       // FirebaseDatabase database = FirebaseDatabase.getInstance();
+       // DatabaseReference myRef = database.getReference("OrderQueue");
+       // myRef.removeValue();
+/*
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference myRef = database.getReference("SpecialOrderQueue");
+        DatabaseReference id = myRef.push();
+        String orderId = "1";
+        UpdateAndSpecialOrder obj = new UpdateAndSpecialOrder(orderId);
+        id.setValue(obj);
+
+ */
         Intent intent = new Intent(this, ChangeThresholdActivity.class);
         intent.putExtra("cheflist", arrayList);
         intent.putExtra("position", position);
