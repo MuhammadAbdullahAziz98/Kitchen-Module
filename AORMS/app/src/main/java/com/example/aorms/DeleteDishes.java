@@ -4,9 +4,12 @@ import java.util.List;
 
 public class DeleteDishes {
     String orderId;
-    String dishKey;
+    int dishKey;
 
-    public DeleteDishes(String orderId, String dishKey) {
+    public DeleteDishes() {
+    }
+
+    public DeleteDishes(String orderId, int dishKey) {
         this.orderId = orderId;
         this.dishKey = dishKey;
     }
@@ -19,12 +22,11 @@ public class DeleteDishes {
         this.orderId = orderId;
     }
 
-    public String getDishKey() {
+    public int getDishKey() {
         return dishKey;
     }
 
-    public void setDishKey(String dishKey) {
+    public void setDishKey(int dishKey) {
         this.dishKey = dishKey;
     }
-
 }

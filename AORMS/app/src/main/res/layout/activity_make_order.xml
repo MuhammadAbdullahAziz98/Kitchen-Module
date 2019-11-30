@@ -7,7 +7,7 @@
     tools:context=".MakeOrderActivity"
     android:orientation="vertical"
     android:gravity="center"
-    android:padding="10dp">
+    >
 
         <Button
             android:id="@+id/makeorder"

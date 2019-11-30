@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Chef Name:"
+            android:text="Chef Id:"
             android:textSize="24dp"
             />
     </LinearLayout>
@@ -29,19 +29,12 @@
         android:gravity="center"
         android:padding="10dp"
         android:layout_marginBottom="24dp">
-        <RelativeLayout
+        <EditText
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="8dp"
-            android:background="@color/greenButton">
-            <Spinner
-                android:layout_width="match_parent"
-                android:layout_height="70dp"
-                android:id="@+id/chefs"
-                android:textSize="32dp"
-                android:entries="@array/chefs"
-                />
-        </RelativeLayout>
+            android:layout_height="100dp"
+            android:id="@+id/chefs"
+
+            />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -67,6 +60,7 @@
         android:padding="10dp"
         >
         <EditText
+            android:id="@+id/newPos"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:hint="Enter place in queue"
@@ -81,7 +75,7 @@
         >
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/changequeDif"
             android:layout_width="200dp"
             android:layout_height="60dp"
             android:background="@drawable/rounded_button_green"

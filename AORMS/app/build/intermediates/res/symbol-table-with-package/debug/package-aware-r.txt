@@ -1079,6 +1079,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable customborder
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1181,12 +1182,15 @@ id barrier
 id beginning
 id blocking
 id bottom
-id button2
 id buttonPanel
+id caution
 id center
 id center_horizontal
 id center_vertical
 id chains
+id change
+id changequeDif
+id changequeSame
 id checkbox
 id checked
 id chefName
@@ -1201,16 +1205,17 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id completiontime
 id container
 id content
 id contentPanel
 id coordinator
+id currentValue
 id custom
 id customPanel
 id dark
 id decor_content_parent
 id default_activity_button
-id deletebutton
 id deletedish
 id deleteorder
 id design_bottom_sheet
@@ -1224,6 +1229,7 @@ id direct
 id disableHome
 id dishName
 id dishType
+id donebutton
 id edit_query
 id editthresholdbutton
 id end
@@ -1253,6 +1259,7 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id kitchenmodule
 id labeled
 id largeLabel
 id left
@@ -1272,6 +1279,8 @@ id mtrl_internal_children_alpha_tag
 id multiply
 id navigation_header_container
 id never
+id newPos
+id newThresh
 id none
 id normal
 id notification_background
@@ -1279,6 +1288,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id orderId
+id ordermodule
 id otherchef
 id outline
 id packed
@@ -1291,6 +1302,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id quantity
+id queues
 id radio
 id right
 id right_icon
@@ -1327,6 +1339,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id specialorder
 id split_action_bar
 id spread
 id spread_inside
@@ -1441,11 +1454,13 @@ layout activity_chef_list
 layout activity_chef_que
 layout activity_chef_screen
 layout activity_different_queue_change
+layout activity_kitchen_manager_screen
 layout activity_main
 layout activity_make_order
 layout activity_queue_change
 layout activity_queues_list
 layout activity_same_queue_change
+layout activity_select_module
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

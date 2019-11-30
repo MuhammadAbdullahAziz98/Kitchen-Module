@@ -56,22 +56,22 @@
             />
     </LinearLayout>
     <Button
-        android:id="@+id/deletebutton"
-        android:layout_width="100dp"
-        android:layout_height="50dp"
-        android:background="@drawable/rounded_button_red"
-        android:gravity="center"
-        android:text="Delete"
-        android:layout_marginLeft="100dp"
-        android:textColor="#ffffff"
-        android:textSize="18dp" />
-    <Button
         android:id="@+id/movebutton"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:background="@drawable/rounded_button_green"
         android:gravity="center"
         android:text="Move"
+        android:layout_marginLeft="50dp"
+        android:textColor="#ffffff"
+        android:textSize="18dp" />
+    <Button
+        android:id="@+id/donebutton"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_button_red"
+        android:gravity="center"
+        android:text="Cooked"
         android:layout_marginLeft="10dp"
         android:textColor="#ffffff"
         android:textSize="18dp" />

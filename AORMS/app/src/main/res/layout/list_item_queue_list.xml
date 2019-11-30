@@ -4,6 +4,7 @@ android:layout_marginTop="10dp"
 xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
 android:layout_height="wrap_content"
 android:orientation="horizontal"
+android:background="@drawable/customborder"
     >
 <LinearLayout
     android:layout_marginLeft="20dp"
@@ -28,20 +29,23 @@ android:orientation="horizontal"
         android:text="Dish type"
         />
     <TextView
+        android:id="@+id/orderId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:text="Order Id is: "
+        android:textStyle="bold|italic"
+        />
+
+    <TextView
+        android:id="@+id/completiontime"
         android:textStyle="bold|italic"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:textSize="22dp"
         android:textColor="#000"
         android:text="Estimated Completion Time"
-        />
-    <TextView
-        android:id="@+id/quantity"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="20dp"
-        android:textColor="#000"
-        android:text="Dish Quantity"
         />
 </LinearLayout>
 </LinearLayout>

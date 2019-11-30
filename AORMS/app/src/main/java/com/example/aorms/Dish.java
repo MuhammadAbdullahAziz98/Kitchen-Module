@@ -5,15 +5,16 @@ package com.example.aorms;
 public class Dish {
     int dish_id;
     String dish_name;
+    String name;
     String type;
     int price;
     int time;
 
     public Dish() {
     }
-    public Dish(int dishid,String type) {
-        this.dish_id = dishid;
-        dish_name = "Dish No."+ dishid;
+    public Dish(String dishname,String type) {
+        dish_name = dishname;
+        name = dish_name;
         this.type = type;
     }
 

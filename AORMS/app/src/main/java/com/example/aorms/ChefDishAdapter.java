@@ -22,16 +22,18 @@ public class ChefDishAdapter extends RecyclerView.Adapter<ChefDishAdapter.ChefDi
 
     @Override
     public void onBindViewHolder(@NonNull ChefDishViewHolder holder, int position) {
-        Dish dish = dishes.get(position);
-        holder.name.setText(dish.getDish_name());
-        holder.type.setText(dish.getType());
+        ChefOrderQueue dish = dishes.get(position);
+        holder.name.setText(dish.getName());
+        holder.type.setText(dish.getDish_type());
+        holder.orderId.setText("Order Id is: " + dish.getOrder_id());
+        holder.completiontime.setText("Complete in "+dish.getEstimated_time()+" mins");
     }
 
 
-    private ArrayList<Dish> dishes = new ArrayList<>();
+    private ArrayList<ChefOrderQueue> dishes = new ArrayList<>();
     private Context mContext;
 
-    public ChefDishAdapter(Context context, ArrayList<Dish> dishes) {
+    public ChefDishAdapter(Context context, ArrayList<ChefOrderQueue> dishes) {
         mContext = context;
         this.dishes = dishes;
     }
@@ -42,12 +44,16 @@ public class ChefDishAdapter extends RecyclerView.Adapter<ChefDishAdapter.ChefDi
 
 
     public static class ChefDishViewHolder extends RecyclerView.ViewHolder{
-        public TextView name,type;
+        public TextView name,type,completiontime,orderId;
         public ChefDishViewHolder(View viewItem){
             super(viewItem);
             name = (TextView) itemView.findViewById(R.id.dishName);
             type = (TextView) itemView.findViewById(R.id.dishType);
+            completiontime = (TextView) itemView.findViewById(R.id.completiontime);
+            orderId = (TextView) itemView.findViewById(R.id.orderId);
         }
     }
 }
+
+
 

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\335f6f56bd083ce95afaf06da4a36589\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\aa0a2454eb6cd578c8c34cf7ff41e9c3\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\415d07a8fb197b9f8b59968be17bacf3\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -48,22 +48,22 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\lenovo\.gradle
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\d9d483c25df9ac0a3d24648dd32ccc08\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\cb54b83730b9e05d11bb84a38085c5b4\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\5abd2842d618e2be5157854d3cd72d2f\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:4:5-32
 		INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml
 	xmlns:dist
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:3:5-61
 	android:versionCode
 		INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-37:12
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:2:11-69
@@ -72,7 +72,7 @@ ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\An
 	dist:instant
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:6:18-37
 application
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:8:5-35:19
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:8:5-37:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\335f6f56bd083ce95afaf06da4a36589\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\335f6f56bd083ce95afaf06da4a36589\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\415d07a8fb197b9f8b59968be17bacf3\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -111,10 +111,10 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lenovo\.gradle
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:14:9-40
-activity#com.example.aorms.MakeOrderActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:9-21:20
+activity#com.example.aorms.KitchenManagerScreenActivity
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:9-22:20
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:19-52
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:15:19-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -125,44 +125,52 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.aorms.SelectModuleActivity
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:23:19-55
+activity#com.example.aorms.MakeOrderActivity
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:19-52
 activity#com.example.aorms.QueuesListActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:22:9-23:20
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:9-56
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:22:19-53
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:19-53
 activity#com.example.aorms.ChefScreenActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:9-56
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:27:9-56
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:24:19-53
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:27:19-53
 activity#com.example.aorms.ChangeThresholdActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:25:9-61
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:28:9-61
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:25:19-58
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:28:19-58
 activity#com.example.aorms.SameQueueChangeActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:9-61
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:29:9-61
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:26:19-58
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:29:19-58
 activity#com.example.aorms.DifferentQueueChangeActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:27:9-66
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:30:9-66
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:27:19-63
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:30:19-63
 activity#com.example.aorms.QueueChangeActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:28:9-57
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:31:9-57
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:28:19-54
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:31:19-54
 activity#com.example.aorms.ChefListActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:29:9-32:20
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:32:9-34:41
 	android:label
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:31:13-38
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:34:13-38
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:30:13-45
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:33:13-45
 activity#com.example.aorms.ChefQueActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:33:9-53
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:35:9-53
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:33:19-50
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:35:19-50
 activity#com.example.aorms.MainActivity
-ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:34:9-50
+ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:36:9-50
 	android:name
-		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:34:19-47
+		ADDED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml:36:19-47
 uses-sdk
 INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lenovo\Documents\GitHub\Kitchen-Module\AORMS\app\src\main\AndroidManifest.xml

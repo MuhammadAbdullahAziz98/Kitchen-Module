@@ -27,15 +27,17 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.aorms.MakeOrderActivity" >
+        <activity android:name="com.example.aorms.KitchenManagerScreenActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.aorms.QueuesListActivity" >
+        <activity android:name="com.example.aorms.SelectModuleActivity" />
+        <activity android:name="com.example.aorms.MakeOrderActivity" >
         </activity>
+        <activity android:name="com.example.aorms.QueuesListActivity" />
         <activity android:name="com.example.aorms.ChefScreenActivity" />
         <activity android:name="com.example.aorms.ChangeThresholdActivity" />
         <activity android:name="com.example.aorms.SameQueueChangeActivity" />
@@ -43,8 +45,7 @@
         <activity android:name="com.example.aorms.QueueChangeActivity" />
         <activity
             android:name="com.example.aorms.ChefListActivity"
-            android:label="Chef List" >
-        </activity>
+            android:label="Chef List" />
         <activity android:name="com.example.aorms.ChefQueActivity" />
         <activity android:name="com.example.aorms.MainActivity" />
 

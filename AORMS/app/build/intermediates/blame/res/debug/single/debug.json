@@ -812,6 +812,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-2\\files-2.1\\aa0a2454eb6cd578c8c34cf7ff41e9c3\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customborder.xml.flat",
+        "source": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\src\\main\\res\\drawable\\customborder.xml"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-2\\files-2.1\\aa0a2454eb6cd578c8c34cf7ff41e9c3\\appcompat-1.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -1652,6 +1656,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-2\\files-2.1\\aa0a2454eb6cd578c8c34cf7ff41e9c3\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kitchen_manager_screen.xml.flat",
+        "source": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\src\\main\\res\\layout\\activity_kitchen_manager_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-2\\files-2.1\\335f6f56bd083ce95afaf06da4a36589\\material-1.0.0\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
     },
@@ -2070,6 +2078,10 @@
     {
         "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-2\\files-2.1\\aa0a2454eb6cd578c8c34cf7ff41e9c3\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_module.xml.flat",
+        "source": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\src\\main\\res\\layout\\activity_select_module.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\Documents\\GitHub\\Kitchen-Module\\AORMS\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",

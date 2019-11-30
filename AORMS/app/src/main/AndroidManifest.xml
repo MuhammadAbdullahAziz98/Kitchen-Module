@@ -12,15 +12,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MakeOrderActivity">
+        <activity android:name=".KitchenManagerScreenActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
-        <activity android:name=".QueuesListActivity" >
+        <activity android:name=".SelectModuleActivity" />
+        <activity android:name=".MakeOrderActivity">
         </activity>
+        <activity android:name=".QueuesListActivity" />
         <activity android:name=".ChefScreenActivity" />
         <activity android:name=".ChangeThresholdActivity" />
         <activity android:name=".SameQueueChangeActivity" />
@@ -28,8 +31,7 @@
         <activity android:name=".QueueChangeActivity" />
         <activity
             android:name=".ChefListActivity"
-            android:label="Chef List">
-        </activity>
+            android:label="Chef List" />
         <activity android:name=".ChefQueActivity" />
         <activity android:name=".MainActivity" />
     </application>

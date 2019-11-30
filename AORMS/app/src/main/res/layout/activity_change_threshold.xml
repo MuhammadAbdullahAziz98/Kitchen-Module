@@ -20,14 +20,15 @@
             android:text="Current Threshold is: "
             android:textSize="24dp"
             />
+
         <TextView
+            android:id="@+id/currentValue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#000000"
             android:text="Threshold Value"
-            android:textStyle="bold"
+            android:textColor="#000000"
             android:textSize="28dp"
-            />
+            android:textStyle="bold" />
     </LinearLayout>
 
     <LinearLayout
@@ -45,30 +46,41 @@
             android:textSize="24dp"
             />
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center"
         android:layout_marginBottom="24dp"
-        android:padding="10dp"
-        >
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+
         <EditText
+            android:id="@+id/newThresh"
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:hint="Old Threshold"
-            />
+            android:hint="Old Threshold" />
+
+        <TextView
+            android:id="@+id/caution"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="TextView"
+            android:textColor="#FF0000"
+            android:textSize="18sp"
+            android:visibility="gone" />
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
         android:gravity="center"
-        android:padding="10dp"
-        >
+        android:orientation="vertical"
+        android:padding="10dp">
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/change"
             android:layout_width="200dp"
             android:layout_height="60dp"
             android:background="@drawable/rounded_button_green"
@@ -77,5 +89,6 @@
 
             android:textColor="#ffffff"
             android:textSize="22dp" />
+
     </LinearLayout>
 </LinearLayout>

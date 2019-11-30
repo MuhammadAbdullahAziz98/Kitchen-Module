@@ -3,26 +3,34 @@ package com.example.aorms;
 import java.util.ArrayList;
 
 public class Chef implements java.io.Serializable{
-
-    String name;
-    String specialty;
-    int threshold;
     int id;
+    String name;
+    String speciality;
+    int threshold;
     int currentWorkload;
 
-    public Chef() {}
-    public Chef(String name, String specialty) {
-        this.name = name;
-        this.specialty = specialty;
+    ArrayList<ChefOrderQueue>chefOrderQueues = new ArrayList<>();
 
-    }
-    public Chef(String name, String specialty, int threshold, int currentWorkload,int id) {
-        this.id =  id;
+    public Chef() {}
+    public Chef(String name, String speciality) {
         this.name = name;
-        this.specialty = specialty;
+        this.speciality = speciality;
+    }
+    public Chef(int id,String name, String speciality, int threshold, int currentWorkload) {
+        this.id=id;
+        this.name = name;
+        this.speciality = speciality;
         this.threshold = threshold;
         this.currentWorkload = currentWorkload;
     }
+    public int getID() {
+        return id;
+    }
+
+    public void setID(int id) {
+        this.id = id;
+    }
+
     public String getName() {
         return name;
     }
@@ -32,19 +40,11 @@ public class Chef implements java.io.Serializable{
     }
 
     public String getSpecialty() {
-        return specialty;
+        return speciality;
     }
 
     public void setSpecialty(String specialty) {
-        this.specialty = specialty;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
+        this.speciality = specialty;
     }
 
     public int getThreshold() {
@@ -62,4 +62,8 @@ public class Chef implements java.io.Serializable{
     public void setCurrentWorkload(int currentWorkload) {
         this.currentWorkload = currentWorkload;
     }
+
+    public ArrayList<ChefOrderQueue> getChefOrderQueues() { return chefOrderQueues; }
+
+    public void setChefOrderQueues(ArrayList<ChefOrderQueue> chefOrderQueues) { this.chefOrderQueues = chefOrderQueues; }
 }
